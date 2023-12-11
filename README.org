@@ -1,0 +1,18 @@
+** 💻 Lifelong student interested in computers.
+
+- 📜 *Favorite languages:* C, Assembly, Python, and Rust.
+
+- 📚 *Currently Learning:*
+  + Programming
+  + Networking
+  + Cybersecurity
+  + Penetration Testing
+  + Reverse Engineering
+  + Social Engineering
+  + Problem Solving
+  + Communication
+  + Ethics
+
+-----
+
+/By the way, I use Gentoo Linux./ 🐧⏳
