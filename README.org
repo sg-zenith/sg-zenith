@@ -1,6 +1,6 @@
 ** 💻 Lifelong student interested in computers.
 
-- 📜 *Favorite languages:* C, Assembly, Python, and Rust.
+- 📜 *Favourite languages:* C, Assembly, Python, and Rust.
 
 - 📚 *Currently Learning:* Programming, and Cybersecurity.
 
