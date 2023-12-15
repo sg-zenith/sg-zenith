@@ -2,18 +2,10 @@
 
 - 📜 *Favorite languages:* C, Assembly, Python, and Rust.
 
-- 📚 *Currently Learning:*
-  
-  + Programming
-  + Networking
-  + Cybersecurity
-  + Penetration Testing
-  + Reverse Engineering
-  + Social Engineering
-  + Problem Solving
-  + Communication
-  + Ethics
+- 📚 *Currently Learning:* Programming, Networking, Cybersecurity, Communication, and Ethics.
 
------
+- 🎓 *Educational Qualification:* Junior year of high school.
 
 /By the way, I use Gentoo Linux./ 🐧⏳
+
+You can email me here [[mailto:susabh063@proton.me][susabh063@proton.me]]. I'm also available on [[https://mastodon.social/@sg_zenith][Mastodon]].
