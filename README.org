@@ -8,4 +8,4 @@
 
 /By the way, I use Gentoo Linux./ 🐧⏳
 
-You can email me here [[mailto:susabh063@proton.me][susabh063@proton.me]]. I'm also available on [[https://mastodon.social/@sg_zenith][Mastodon]].
+You can email me here [[mailto:susabh063@proton.me][<susabh063@proton.me>]]. I'm also available on [[https://mastodon.social/@sg_zenith][Mastodon]].
